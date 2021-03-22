@@ -1,1 +1,1 @@
-# school_jpgs2
+# jpgs_school_2
