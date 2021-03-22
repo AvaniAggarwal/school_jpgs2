@@ -1,0 +1,52 @@
+html{
+    scroll-behavior: smooth
+}
+body{
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+#contactUs{
+    margin-top: 40px;
+}
+.row::after{
+content: "";
+    clear:both;
+    display: table;
+
+}
+.travel_mainDiv{
+    float:left;
+    width: 33.33%;
+    padding: 5px;
+    border-width: 1px;
+    border-style: double;
+    border-color:black;}
+        
+.travel_mainDiv img{
+    width: 100%;
+    height: 300px;
+
+        
+}
+.travel_mainDiv hr{
+    width;100px;
+}
+.travel_mainDiv h5,.travel_mainDiv p
+{
+    
+    margin-left: 20px;
+}
+
+.movie_head i{
+float:right;
+    
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15;
+    width: 100%;
+    display: inline-block;
